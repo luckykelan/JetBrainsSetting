@@ -2,6 +2,9 @@
   <action id="Back">
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
   <action id="EmmetNextEditPoint" />
   <action id="EmmetPreviousEditPoint" />
   <action id="Forward">
