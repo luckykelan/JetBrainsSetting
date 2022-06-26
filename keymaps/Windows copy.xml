@@ -8,6 +8,13 @@
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="RunAnything">
+    <keyboard-shortcut first-keystroke="shift ctrl alt z" />
+  </action>
   <action id="SelectNextOccurrence" />
   <action id="SmartSelect" />
   <action id="TableResult.GrowSelection" />
